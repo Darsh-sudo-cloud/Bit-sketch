@@ -1,0 +1,15 @@
+ body { margin: 0; min-height: 100vh; background: #0e0d0c; color: #e9e2d6; font-family: Georgia, serif; padding: 40px 24px; box-sizing: border-box; }
+h1 { text-align: center; font-weight: normal; letter-spacing: .08em; margin: 0 0 30px; }
+.wrap { display: flex; flex-wrap: wrap; gap: 24px; justify-content: center; max-width: 960px; margin: auto; }
+.card { background: #171513; border: 1px solid #2a2622; border-radius: 6px; padding: 22px; }
+.card.side { width: 300px; }
+.label { color: #c9a96e; font-size: .75rem; letter-spacing: .18em; text-transform: uppercase; margin: 0 0 12px; }
+canvas { display: block; image-rendering: pixelated; cursor: crosshair; background: #1d1a17; }
+button { background: none; color: #e9e2d6; border: 1px solid #2a2622; padding: 7px 12px; font: inherit; border-radius: 3px; cursor: pointer; }
+button:hover, button.on { border-color: #c9a96e; color: #c9a96e; }
+.swatches, .tools { display: flex; gap: 6px; flex-wrap: wrap; margin-top: 12px; }
+.swatch { width: 26px; height: 26px; padding: 0; border: 2px solid #2a2622; border-radius: 3px; }
+.swatch.on { border-color: #e9e2d6; }
+.mono { font-family: Consolas, monospace; font-size: .82rem; color: #8a8178; }
+pre { margin: 0 0 18px; height: 160px; overflow: auto; background: #120f0d; border: 1px solid #2a2622; padding: 10px; }
+.hash { color: #c9a96e; word-break: break-all; font-family: Consolas, monospace; font-size: .78rem; }
