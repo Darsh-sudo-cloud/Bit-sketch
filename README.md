@@ -6,9 +6,9 @@ Most drawing apps hide the data behind the picture. Bitsketch does the opposite.
 
 I built it as a first-year project to practise HTML, CSS, and JavaScript, and to connect some basic cybersecurity ideas to something visual.
 
-## It looks like
+## Access it through
 
-<img width="700" height="500" alt="Screenshot 2026-11-23 222125" src="https://github.com/user-attachments/assets/c88f62a1-ca9b-43be-8519-c0ad6ec0b39f" />
+https://darsh-sudo-cloud.github.io/Bit-sketch/
 
 ## Features
 
